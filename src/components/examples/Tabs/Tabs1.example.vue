@@ -1,0 +1,25 @@
+<example>
+基础用法
+</example>
+<template>
+  <jeremy-tabs v-model:selected="selected">
+    <jeremy-tab title="标签页1" name="first"> 我是第一页的内容 </jeremy-tab>
+    <jeremy-tab title="标签页2" name="second"> 我是第二页的内容 </jeremy-tab>
+  </jeremy-tabs>
+</template>
+<script lang="ts">
+import JeremyTab from "../../../lib/Tab.vue";
+import JeremyTabs from "../../../lib/Tabs.vue";
+
+import { ref } from "vue";
+export default {
+  components: {
+    JeremyTab,
+    JeremyTabs,
+  },
+  setup() {
+    const selected = ref("second");
+    return { selected };
+  },
+};
+</script>
