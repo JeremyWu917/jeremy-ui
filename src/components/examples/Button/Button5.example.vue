@@ -7,7 +7,7 @@
   <jeremy-button class="btn" size="small">小号按钮</jeremy-button>
 </template>
 <script lang="ts">
-import JeremyButton from "../../../lib/Button.vue";
+import {JeremyButton} from "jeremy-ui";
 export default {
   components: {
     JeremyButton,

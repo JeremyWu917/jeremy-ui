@@ -5,7 +5,7 @@
   <jeremy-button class="btn" color="blue">蓝色按钮</jeremy-button>
 </template>
 <script lang="ts">
-import JeremyButton from "../../../lib/Button.vue";
+import {JeremyButton} from "jeremy-ui";
 export default {
   components: {
     JeremyButton,

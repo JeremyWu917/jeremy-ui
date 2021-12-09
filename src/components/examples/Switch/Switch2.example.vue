@@ -5,7 +5,7 @@
   <jeremy-switch v-model:value="isActive" :disabled="disabled" />
 </template>
 <script lang="ts">
-import JeremySwitch from "../../../lib/Switch.vue";
+import { JeremySwitch } from "jeremy-ui";
 
 import { ref } from "vue";
 export default {

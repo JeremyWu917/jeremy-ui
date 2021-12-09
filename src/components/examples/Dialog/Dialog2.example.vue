@@ -13,8 +13,7 @@
   </jeremy-dialog>
 </template>
 <script lang="ts">
-import JeremyButton from "../../../lib/Button.vue";
-import JeremyDialog from "../../../lib/Dialog.vue";
+import { JeremyButton,  JeremyDialog } from "jeremy-ui";
 
 import { ref } from "vue";
 export default {

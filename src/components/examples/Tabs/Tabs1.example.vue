@@ -8,8 +8,7 @@
   </jeremy-tabs>
 </template>
 <script lang="ts">
-import JeremyTab from "../../../lib/Tab.vue";
-import JeremyTabs from "../../../lib/Tabs.vue";
+import { JeremyTab, JeremyTabs } from "jeremy-ui";
 
 import { ref } from "vue";
 export default {

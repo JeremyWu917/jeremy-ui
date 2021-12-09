@@ -7,7 +7,7 @@
 </template>
 <script lang="ts">
 import { ref } from "vue";
-import JeremyButton from "../../../lib/Button.vue";
+import {JeremyButton} from "jeremy-ui";
 export default {
   components: {
     JeremyButton,

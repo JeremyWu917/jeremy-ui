@@ -14,7 +14,7 @@
   <jeremy-switch v-model:value="isActive[2]" size="large" />
 </template>
 <script lang="ts">
-import JeremySwitch from "../../../lib/Switch.vue";
+import { JeremySwitch } from "jeremy-ui";
 
 import { ref } from "vue";
 export default {

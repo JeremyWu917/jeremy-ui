@@ -1,12 +1,12 @@
 import JeremyComponent1 from "../examples/Dialog/Dialog1.example.vue";
 import JeremyComponent2 from "../examples/Dialog/Dialog2.example.vue";
-// import JeremyComponent3 from "../examples/Dialog/Dialog3.example.vue";
+import JeremyComponent3 from "../examples/Dialog/Dialog3.example.vue";
 
 export default {
   components: [
     JeremyComponent1,
     JeremyComponent2,
-    // JeremyComponent3,
+    JeremyComponent3,
   ],
   attributes: [
     { attr: 'visible', desp: '是否可见', type: 'boolean', values: 'false / true', default: 'false' },

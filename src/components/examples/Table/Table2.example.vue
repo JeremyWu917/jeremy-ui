@@ -20,8 +20,7 @@
   </jeremy-table>
 </template>
 <script lang="ts">
-import JeremyTable from "../../../lib/Table.vue";
-import JeremyButton from "../../../lib/Button.vue";
+import { JeremyTable, JeremyButton } from "jeremy-ui";
 
 import { ref } from "vue";
 export default {

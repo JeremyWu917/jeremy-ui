@@ -14,7 +14,7 @@ textarea
 </template>
 <script lang="ts">
 import { ref } from "vue";
-import JeremyInput from "../../../lib/Input.vue";
+import { JeremyInput } from "jeremy-ui";
 export default {
   components: {
     JeremyInput,

@@ -36,9 +36,7 @@
   </jeremy-table>
 </template>
 <script lang="ts">
-import JeremyTable from "../../../lib/Table.vue";
-import JeremyButton from "../../../lib/Button.vue";
-import JeremyInput from "../../../lib/Input.vue";
+import { JeremyTable, JeremyButton, JeremyInput } from "jeremy-ui";
 
 import { ref } from "vue";
 export default {

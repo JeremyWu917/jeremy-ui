@@ -5,8 +5,7 @@
   <jeremy-button @click="showDialog">打开对话框</jeremy-button>
 </template>
 <script lang="ts">
-import JeremyButton from "../../../lib/Button.vue";
-import createDialog from "../../../lib/createDialog";
+import { JeremyButton,  createDialog } from "jeremy-ui";
 
 export default {
   components: {
