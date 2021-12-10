@@ -1,67 +1,91 @@
 # jeremy-ui
-A sample ui-framework base on Vue3 :rocket:
 
-<img alt="ide" src="https://img.shields.io/badge/ide-vscode-blue">
-<img alt="build-passing" src="https://img.shields.io/badge/build-passing-blue">
-<img alt="vue-version" src="https://img.shields.io/badge/vue-3.0-blue">
-<img alt="jeremy-ui" src="https://img.shields.io/badge/jeremy--ui-0.0.3-blue">
-<img alt="license-mit" src="https://img.shields.io/badge/license-MIT-green">
-<img alt="stars" src="https://img.shields.io/github/stars/jeremywu917/jeremy-ui?style=social">
-<img alt="forks" src="https://img.shields.io/github/forks/jeremywu917/jeremy-ui?style=social">
-<img alt="issues" src="https://img.shields.io/github/issues/jeremywu917/jeremy-ui">
-<img alt="pr" src="https://img.shields.io/github/issues-pr/jeremywu917/jeremy-ui">
+> A sample ui-framework base on Vue3 :rocket:
+<p align="center">
+  <img alt="ide" src="https://img.shields.io/badge/ide-vscode-blue">
+  <img alt="build-passing" src="https://img.shields.io/badge/build-passing-blue">
+  <img alt="vue-version" src="https://img.shields.io/badge/vue-3.0-blue">
+  <img alt="jeremy-ui" src="https://img.shields.io/badge/jeremy--ui-0.0.3-blue">
+  <img alt="license-mit" src="https://img.shields.io/badge/license-MIT-green">
+  <img alt="stars" src="https://img.shields.io/github/stars/jeremywu917/jeremy-ui?style=social">
+  <img alt="forks" src="https://img.shields.io/github/forks/jeremywu917/jeremy-ui?style=social">
+  <img alt="issues" src="https://img.shields.io/github/issues/jeremywu917/jeremy-ui">
+  <img alt="pr" src="https://img.shields.io/github/issues-pr/jeremywu917/jeremy-ui">
+</p>
+## WIP
 
-Work In Process 🚧
+This repo still work in process 🚧
 
-# 进度
 
-目前已经完成了
 
-- Button
-- Card
-- Dialog
-- Input
-- Switch
-- Table
-- Tabs
+## Wiki
 
-# 安装
+[Click here](https://ui.jeremywu.top/)
 
-推荐使用 npm 安装
+
+
+## Process
+
+- [x] Button 
+- [x] Dialog
+- [x] Input
+- [x] Switch
+- [x] Table
+- [x] Tabs
+- [x] Card
+- [ ] Steps
+- [ ] Shield
+- [ ] _TODO_
+
+
+
+## Install
+
+- npm
 
 ```bash
 npm install jeremy-ui --save
 ```
 
-或使用 yarn
+- yarn
 
 ```bash
 yarn add jeremy-ui --save
 ```
 
-# 技术栈
+
+
+## Technology Stack
 
 - Vue3
 - TypeScript
 - Vite
 - Scss
 
-# 部署
 
-根据部署到 Github Pages 和自己服务器（以 nginx 为例），有不同的配置
 
-## Github Pages
+## Deploy
 
-修改 `vite.config.ts` 中的 `base` 字段为 `'./'`
+### Github Pages
 
-修改 `src/router.ts` 中的 `history` 为 hash 模式
+1. Change `base` default value from `/` to `./` in  `vite.config.ts` 
+2. Change the `history` mode from `createWebHistory` to `createWebHashHistory`  in `src/router.ts`
 
-## nginx
+### Nginx
 
-修改 `vite.config.ts` 中的 `base` 字段为 `'/'`
+1. Set `base` value to `/` in `vite.config.ts`
+2. Set `history` mode to `createWebHistory` in `src/router.ts`
 
-修改 `src/router.ts` 中的 `history` 为 history 模式
 
-## 修改建议
 
-重点调整 `Global.ts` 里的定义
+## Tips
+
+Pay more attention on  `Global.ts` file
+
+
+
+## License
+
+<p>
+<a href="LICENSE">MIT License</a>
+</p>
