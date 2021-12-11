@@ -5,7 +5,7 @@
 :white_check_mark: [01 - Vue3 UI Framework - 开始](https://www.cnblogs.com/jeremywucnblog/p/15670610.html)
 :white_check_mark: [02 - Vue3 UI Framework - 顶部边栏](https://www.cnblogs.com/jeremywucnblog/p/15674600.html)
 :white_check_mark: [03 - Vue3 UI Framework - 首页](https://www.cnblogs.com/jeremywucnblog/p/15674822.html)
-:white_check_mark: [04 - Vue3 UI Framework - 文档页](https://www.cnblogs.com/jeremywucnblog/p/15674833.html)
+:white_check_mark: [04 - Vue3 UI Framework - 文档页](https://www.cnblogs.com/jeremywucnblog/p/15674929.html)
 :ballot_box_with_check: 05 - Vue3 UI Framework - Button 组件
 :ballot_box_with_check: 06 - Vue3 UI Framework - Dialog 组件
 :ballot_box_with_check: 07 - Vue3 UI Framework - Switch 组件
