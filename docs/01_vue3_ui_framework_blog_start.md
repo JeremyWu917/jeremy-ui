@@ -16,7 +16,7 @@
 
 先看一下 [Jeremy UI 官网](https://ui.jeremywu.top/) 效果吧！目前项目依然处于开发阶段，小伙伴们有兴趣可以跟着一起练习一下，也欢迎参与到项目中，项目参考地址 [GitHub](https://github.com/JeremyWu917/jeremy-ui) ，欢迎 `star`、`issue`、`fork` 和 `PR` 。
 
-![img](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/1335881-20211210101544271-299604246.gif)
+![img](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211211102354207.png)
 
 ### 分析官网
 
