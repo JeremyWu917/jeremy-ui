@@ -19,7 +19,7 @@ yarn add jeremy-ui --save
 
 注意这里的版本变化，目前是 `0.0.3`
 
-```
+```html
 <!-- 引入样式 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jeremy-ui@0.0.3/lib/jeremy.css">
 ```
