@@ -14,6 +14,7 @@ export default {
     { attr: 'value', desp: '绑定值', type: 'string', values: '字符串', default: '必填' },
     { attr: 'theme', desp: '类型', type: 'string', values: 'input / textarea', default: 'input' },
     { attr: 'rows ', desp: '行高，但当 theme 为 input 时值恒为1', type: 'number', values: '正整数', default: '5' },
-    { attr: 'color', desp: '外边框颜色', type: 'string', values: '任意合法颜色值', default: '#8c6fef' }
+    { attr: 'color', desp: '外边框颜色', type: 'string', values: '任意合法颜色值', default: '#8c6fef' },
+    { attr: 'disabled', desp: '是否禁用', type: 'boolean', values: 'false / true', default: 'false' }
   ]
 };
