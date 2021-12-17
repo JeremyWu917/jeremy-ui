@@ -23,6 +23,8 @@ This repo still work in process 🚧
 
 [Click here](https://ui.jeremywu.top/)
 
+[Blog](https://blog.jeremywu.top/)
+
 
 
 ## Process
