@@ -347,12 +347,12 @@ Jeremy UI 官网地址：[Jeremy UI](https://ui.jeremywu.top/#/)
 
 | 分支名称 | 说明                                 |
 | -------- | ------------------------------------ |
-| main     | 合并的 dev 分支的 PR                 |
+| main     | 合并的 website 分支的 PR                 |
 | dev      | 开发分支，组件库的引用来自本地       |
-| publish  | GitHub Pages 发布的分支              |
+| publish  | GitHub Pages 发布的分支，组件库的引用来自 npm              |
 | website  | 官网使用的分支，组件库的引用来自 npm |
 
-小伙伴 `clone` 之后可以参考 `main` 分支，可以向 `dev` 分支提交 PR 哦！
+小伙伴 `clone` 之后可以参考 `dev` 分支，可以向 `dev` 分支提交 PR 哦！
 
 ### 参考资料
 
