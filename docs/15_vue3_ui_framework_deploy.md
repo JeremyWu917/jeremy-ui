@@ -52,7 +52,7 @@ export default {
 > >
 > > 更新 `src/router.ts` 中的 `history` 为 `createWebHashHistory`
 
-在执行完 `vite build` 之后，`dist` 目录生成如下文件：
+在执行完 `npm run build` 之后，`dist` 目录生成如下文件：
 
 ![image-20211227092019748](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211227092019748.png)
 
