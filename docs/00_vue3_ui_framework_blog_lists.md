@@ -17,7 +17,7 @@
 :white_check_mark: [13 - Vue3 UI Framework - 完善官网](https://www.cnblogs.com/jeremywucnblog/p/15722469.html)
 :white_check_mark: [14 - Vue3 UI Framework - 优化代码](https://www.cnblogs.com/jeremywucnblog/p/15726554.html)
 :white_check_mark: [15 - Vue3 UI Framework - 完工部署](https://www.cnblogs.com/jeremywucnblog/p/15735338.html)
-:ballot_box_with_check: 16 - Vue3 UI Framework - 域名配置
+:white_check_mark: [16 - Vue3 UI Framework - 域名配置](https://www.cnblogs.com/jeremywucnblog/p/15739875.html)
 
 ### 项目地址 :gift:
 
