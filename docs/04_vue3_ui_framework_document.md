@@ -20,7 +20,7 @@
 
 大致就做如上的子内容
 
-然后在 `src/components` 目录下新建需要的文件们，此处举例 `Introduction.vue`
+然后在 `src/components` 目录下新建需要的文件，此处举例 `Introduction.vue`
 
 ```
 <template>
