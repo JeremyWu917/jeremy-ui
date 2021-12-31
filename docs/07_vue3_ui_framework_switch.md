@@ -45,7 +45,7 @@
 
 ### 功能
 
-首先，我们再 `Typescript` 中声明一些需求分析中的属性：
+首先，我们再在 `Typescript` 中声明一些需求分析中的属性：
 
 ```vue
 declare const props: {
