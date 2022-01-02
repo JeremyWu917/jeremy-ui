@@ -63,7 +63,7 @@
 
 ### 功能
 
-现在 `ts` 中声明参数：
+先在 `ts` 中声明参数：
 
 ```typescript
 declare const props: {
@@ -251,7 +251,7 @@ export const createDialog = options => {
 }
 ```
 
-然后再需要使用的地方导入即可：
+然后在需要使用的地方导入即可：
 
 ```vue
 import {createDialog} from './createDialog.ts'
