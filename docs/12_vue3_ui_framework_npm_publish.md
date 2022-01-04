@@ -200,7 +200,7 @@ export default {
 }
 ```
 
-通过配置我们指导 `rollup` 依赖如下 5 个包
+通过配置我们知道 `rollup` 依赖如下 5 个包
 
 1. sass
 2. rollup-plugin-esbuild
