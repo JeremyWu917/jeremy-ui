@@ -21,7 +21,7 @@
 4. 点击添加记录
 5. 类型选择 `CNAME`
 6. 主机名称根据需要输入
-7. 值输入你的原始网站的域名或者公网 `IP` 地址
+7. 输入你的原始网站的域名或者公网 `IP` 地址
 8. 点击确认按钮完成配置
 
 ![image-20211228104354433](https://gitee.com/jeremywuiot/img-res-all/raw/master/src/iie_shop/image-20211228104354433.png)
