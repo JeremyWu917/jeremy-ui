@@ -24,5 +24,6 @@ export const components = {
 export const guidances = {
   'introduction': { path: "introduction", title: "介绍" },
   'install': { path: "install", title: "安装" },
-  'start': { path: "start", title: "快速上手" }
+  'start': { path: "start", title: "快速上手" },
+  'color': { path: "color", title: "颜色面板" }
 }
