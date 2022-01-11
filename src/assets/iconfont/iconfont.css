@@ -1,0 +1,259 @@
+@font-face {
+  font-family: "jeremyui";
+  src: url('iconfont.woff2?t=1641900266578') format('woff2'),
+       url('iconfont.woff?t=1641900266578') format('woff'),
+       url('iconfont.ttf?t=1641900266578') format('truetype');
+}
+
+.jeremyui {
+  font-family: "jeremyui" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.je-message:before {
+  content: "\e78a";
+}
+
+.je-message-fill:before {
+  content: "\e84a";
+}
+
+.je-bell:before {
+  content: "\e60d";
+}
+
+.je-bell-fill:before {
+  content: "\e8e3";
+}
+
+.je-home-fill:before {
+  content: "\eddf";
+}
+
+.je-home:before {
+  content: "\e600";
+}
+
+.je-lock:before {
+  content: "\e69e";
+}
+
+.je-menu:before {
+  content: "\e629";
+}
+
+.je-msg:before {
+  content: "\e67b";
+}
+
+.je-msg-fill:before {
+  content: "\e67d";
+}
+
+.je-menu-box:before {
+  content: "\e6c1";
+}
+
+.je-unlock:before {
+  content: "\e74d";
+}
+
+.je-piechart:before {
+  content: "\e78e";
+}
+
+.je-eye:before {
+  content: "\e78f";
+}
+
+.je-file-ppt:before {
+  content: "\e7b9";
+}
+
+.je-file-word:before {
+  content: "\e7ba";
+}
+
+.je-piechart-fill:before {
+  content: "\e849";
+}
+
+.je-file-ppt-fill:before {
+  content: "\e858";
+}
+
+.je-file-word-fill:before {
+  content: "\e859";
+}
+
+.je-eye-fill:before {
+  content: "\e869";
+}
+
+.je-edit-fill:before {
+  content: "\e86d";
+}
+
+.je-printer-fill:before {
+  content: "\e870";
+}
+
+.je-user:before {
+  content: "\e64b";
+}
+
+.je-eyeslash-fill:before {
+  content: "\e7aa";
+}
+
+.je-clouddownload-fill:before {
+  content: "\e7d9";
+}
+
+.je-cloudupload-fill:before {
+  content: "\e7da";
+}
+
+.je-eye-slash:before {
+  content: "\e7ec";
+}
+
+.je-clouddownload:before {
+  content: "\e81b";
+}
+
+.je-cloudupload:before {
+  content: "\e81c";
+}
+
+.je-excel:before {
+  content: "\e998";
+}
+
+.je-excel-fill:before {
+  content: "\edde";
+}
+
+.je-delete-fill:before {
+  content: "\e6f2";
+}
+
+.je-delete:before {
+  content: "\e6f3";
+}
+
+.je-group:before {
+  content: "\e6ff";
+}
+
+.je-group-fill:before {
+  content: "\e700";
+}
+
+.je-mail:before {
+  content: "\e70a";
+}
+
+.je-mail-fill:before {
+  content: "\e70b";
+}
+
+.je-right:before {
+  content: "\e721";
+}
+
+.je-github-fill:before {
+  content: "\e632";
+}
+
+.je-role:before {
+  content: "\e610";
+}
+
+.je-file-fill:before {
+  content: "\e6ef";
+}
+
+.je-user-fill:before {
+  content: "\e606";
+}
+
+.je-project:before {
+  content: "\e659";
+}
+
+.je-star:before {
+  content: "\e8b9";
+}
+
+.je-star-fill:before {
+  content: "\e8c6";
+}
+
+.je-help:before {
+  content: "\e752";
+}
+
+.je-save:before {
+  content: "\e762";
+}
+
+.je-set:before {
+  content: "\e76c";
+}
+
+.je-help-fill:before {
+  content: "\e782";
+}
+
+.je-set-fill:before {
+  content: "\e790";
+}
+
+.je-search:before {
+  content: "\e688";
+}
+
+.je-project-fill:before {
+  content: "\e62a";
+}
+
+.je-update:before {
+  content: "\eab7";
+}
+
+.je-github:before {
+  content: "\e6ea";
+}
+
+.je-bookmark:before {
+  content: "\e670";
+}
+
+.je-print:before {
+  content: "\e67a";
+}
+
+.je-bookmark-fill:before {
+  content: "\e68a";
+}
+
+.je-file:before {
+  content: "\e616";
+}
+
+.je-conversion:before {
+  content: "\e609";
+}
+
+.je-conversion-fill:before {
+  content: "\e614";
+}
+
+.je-edit:before {
+  content: "\e680";
+}
+

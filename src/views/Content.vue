@@ -60,6 +60,7 @@ import JeremyInputs from "../components/contents/Input";
 import JeremySwitchs from "../components/contents/Switch";
 import JeremyTables from "../components/contents/Table";
 import JeremyTabss from "../components/contents/Tabs";
+import JeremyIcons from "../components/contents/Icon"
 
 import { ref } from "vue";
 import JeremyCard from "../lib/Card.vue";
@@ -77,6 +78,7 @@ const JeremyMap = {
   Switch: JeremySwitchs,
   Table: JeremyTables,
   Tabs: JeremyTabss,
+  Icon: JeremyIcons,
 };
 
 export default {
