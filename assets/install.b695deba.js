@@ -1,0 +1,1 @@
+var e='<h1 id="安装">安装</h1>\n<h2 id="npm-安装">npm 安装</h2>\n<p>建议优先使用 npm 安装</p>\n<pre><code class="language-bash">npm install jeremy-ui --save\n</code></pre>\n<p>或</p>\n<pre><code class="language-bash">yarn add jeremy-ui --save\n</code></pre>\n';export{e as default};
